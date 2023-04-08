@@ -40,7 +40,7 @@ Rasta Tahmasebi
 
 Jiajun Wang
 * Lab Section (SSMS 1303): 2pm, 3pm
-* Tuesday 9am - 11am (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
+* Tuesday 2:30pm - 4:30pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
 
 Kangyou Yu
 * Lab Section (SSMS 1303): 2pm, 3pm, 7pm
