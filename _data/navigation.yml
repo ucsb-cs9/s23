@@ -19,13 +19,13 @@ home:
    baseurl: /
 
 offerings:
-   title: "s22"
+   title: "s23"
    url: /	
-   baseurl: /s22
+   baseurl: /s23
    items:
-      - title: "s22"
+      - title: "s23"
         url: /
-        baseurl: /s22
+        baseurl: /s23
 
 offering_links:
    - title: Cal
