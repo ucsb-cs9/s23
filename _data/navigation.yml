@@ -33,5 +33,5 @@ offering_links:
      description: "Assignment Calendar"
    - title: Github
      dropdown:
-         - title: s22
-           url: https://github.com/ucsb-cs9/s22
+         - title: s23
+           url: https://github.com/ucsb-cs9/s23
