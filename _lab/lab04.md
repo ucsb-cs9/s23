@@ -4,7 +4,7 @@ num: lab04
 ready: true
 desc: "Maze Solver using Stacks"
 assigned: 2023-04-30 23:59:59-7
-due: 2023-5-07 23:59:59-7
+due: 2023-05-07 23:59:59-7
 ---
 
 In this lab, we'll practice:
