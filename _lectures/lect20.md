@@ -7,6 +7,7 @@ lecture_date: 2023-06-08 11:00:00.00-7:00
 
 Recorded Lecture: [6_8_23](https://drive.google.com/file/d/1dNWXnoWT979v_VGeKAHzwBav3HAtvX4A/view?usp=sharing)
 
+```
 ''' Final Exam Logistics
 * The final exam will be in-person Wednesday 6/14 (CHEM 1179)
 12pm - 2pm
@@ -108,3 +109,4 @@ Topics
         * Know implementation / O-notation of various BST methods
         (put, get, deletion)
 '''
+```
